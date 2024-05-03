@@ -1,0 +1,4 @@
+C:\Users\lalat\OneDrive\Рабочий стол\projekt\wydarzenia\obj\Debug\net8.0\wydarzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalat\OneDrive\Рабочий стол\projekt\wydarzenia\obj\Debug\net8.0\wydarzenia.AssemblyInfoInputs.cache
+C:\Users\lalat\OneDrive\Рабочий стол\projekt\wydarzenia\obj\Debug\net8.0\wydarzenia.AssemblyInfo.cs
+C:\Users\lalat\OneDrive\Рабочий стол\projekt\wydarzenia\obj\Debug\net8.0\wydarzenia.csproj.CoreCompileInputs.cache

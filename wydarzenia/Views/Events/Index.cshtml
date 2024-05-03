@@ -1,0 +1,10 @@
+@model List<NazwaTwojegoProjektu.Models.Event>
+
+<h1>Lista wydarzeń</h1>
+
+<ul>
+    @foreach (var @event in Model)
+    {
+        <li>@event.Name - @event.Date.ToShortDateString() - Dostępne miejsca: @event.AvailableSeats</li>
+    }
+</ul>
